@@ -14,4 +14,4 @@ A personal portfolio website showcasing my projects, skills, education, and expe
 - JavaScript
 
 ## Author
-Nikhil
+### Nikhil
